@@ -6,4 +6,4 @@ define( 'WROOT' , dirname( __FILE__ ) . DS  );
 /****  load core code  ***/
 include_once( 'core'.DS .'init.php' );
 
-测试
+index.php
